@@ -9,3 +9,5 @@ with increasing complexity and reducing assistance for you to clone and upload y
 This is all with the endstate of building a capability that can be applied to other problems, not
 simply achieving the end result of a MBT detector in one fell swoop.
 
+**The first exercises will almost certainly be very easy for many people, if so, please take the time to help
+others and if you can, add your own notebooks**
