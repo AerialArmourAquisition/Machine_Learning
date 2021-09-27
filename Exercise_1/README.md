@@ -1,4 +1,4 @@
-## Exercise 1
+## Project 1
 
 Training an ML classification model from a pre-labelled dataset.  To start, create a new Git branch in this repo and either create a copy of 
 the classification notebook with a new name, or work within a Python IDE and copy the code you need to get started.  Push to the repo and highlight issues
@@ -15,4 +15,4 @@ The dataset used can be found on [Kaggle](https://www.kaggle.com/c/digit-recogni
 
 The **Classification** notebook in this directory sets up a basic problem, with detailed comments on how and why that was done.  Additionally the 
 **Tensorflow** notebook will walk through how to build a simple sequential model and define key terms and hyperparameters to help
-you on the first exercise.
+you on the first project.
