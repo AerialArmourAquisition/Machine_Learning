@@ -1,6 +1,8 @@
 ## Exercise 1
 
-Training an ML classification model from a pre-labelled dataset.
+Training an ML classification model from a pre-labelled dataset.  To start, create a new Git branch in this repo and either create a copy of 
+the classification notebook with a new name, or work within a Python IDE and copy the code you need to get started.  Push to the repo and highlight issues
+within your branch, or ask on the discord for help with errors.
 
 ### Aims:
   - To explore basic data loading, manipulation, and visualisation
