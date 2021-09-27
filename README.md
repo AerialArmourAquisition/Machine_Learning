@@ -10,4 +10,4 @@ This is all with the endstate of building a capability that can be applied to ot
 simply achieving the end result of a MBT detector in one fell swoop.
 
 **The first exercises will almost certainly be very easy for many people, if so, please take the time to help
-others and if you can, add your own notebooks**
+others and if you can, add your own notebooks with projects for others to complete**
