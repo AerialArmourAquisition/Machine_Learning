@@ -1,6 +1,6 @@
 ## Machine_Learning
 
-Welcome to the Machine Learning the intent of this repo is to provide a learning environment for 
+Welcome to Machine Learning, the intent of this repo is to provide a learning environment for 
 experimentation with Machine Learning. No prior ML or linear algebra knowledge is expected however
 the basics of programming in Python are assumed.
 
